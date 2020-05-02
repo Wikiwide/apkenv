@@ -1,3 +1,4 @@
+#include <sys/uio.h>
 
 {"malloc", malloc},
 {"valloc", valloc},
