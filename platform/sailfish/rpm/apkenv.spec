@@ -1,5 +1,5 @@
 Name: apkenv
-Version: 42.23.0
+Version: 42.24.7.1
 Release: 1
 Summary: A compatibility layer for applications packaged as ".apk".
 Group: System/Base
